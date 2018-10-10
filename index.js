@@ -33,7 +33,7 @@ function switchOnCharmFromTip(tip) {
       result = 'Thank you so much.';
       break;
     case 'not as generous':
-      result = 'Thanks.'
+      result = 'Thank you.'
       break;
     default:
       result = 'Bye'
